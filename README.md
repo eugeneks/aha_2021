@@ -22,3 +22,5 @@ schema= 'PUB3477'
 OPEN SCHEMA PUB3477;
 ```
 на имя своей схемы.
+
+Путь `IMPORT INTO ONLINE_RETAIL_STG FROM local CSV file '/Users/e.kudashev/Desktop/2021_Aha/online-retail.csv'` заменить. на путь к файлу `online-retail.csv` на своей локальной машине.
